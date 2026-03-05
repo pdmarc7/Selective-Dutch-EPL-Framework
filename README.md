@@ -1,2 +1,2 @@
 # Selective-Dutch-EPL-Framework
-Selective Dutch betting framework for paired EPL fixtures — analytical joint probability optimisation over a 3×3 outcome space using H2H frequency distributions.
+Python implementation of a selective Dutch betting strategy applied to same-day English Premier League fixture pairs. Derives marginal outcome probabilities from rolling H2H frequency distributions, exhaustively enumerates two-outcome exclusion configurations over the 3×3 joint outcome space, and allocates Dutch stakes via inverse-odds weighting. Companion code for the paper "Exploiting the Joint Outcome Space of Paired Football Fixtures: An Analytical Dutch Framework for the English Premier League."
